@@ -24,5 +24,6 @@ footer {
 .catPhoto {
   display: block;
   margin: 0 auto;
-  border-radius: 100%;
+  border-radius: 10px;
+  max-width: 100%;
 }
